@@ -11,7 +11,7 @@ This repo helps me practice algorithms, data structures, and problem-solving ski
 | #    | Title                             | Difficulty | Codewars Link                                                                 |
 |------|-----------------------------------|------------|--------------------------------------------------------------------------------|
 | 001  | Can you get to the pump?         | 8 kyu      | [🔗 Problem](https://www.codewars.com/kata/5861d28f124b35723e00005e)           |
-
+| 002 | [problem] (https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)
 > 🟢 Each problem has its own folder with a `solution.js` and `README.md` inside.
 
 ---
